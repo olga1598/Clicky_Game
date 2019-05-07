@@ -1,0 +1,30 @@
+.nav-bar {
+    background: blue;
+    color: white;
+    box-shadow: 0 3px 6px rgb(41, 41, 41), 0 3px 6px rgb(41, 41, 41);
+    padding: 10px 0px 10px 0px;
+    position: sticky;
+    position: -webkit-sticky;
+    top:0;
+    z-index: 100;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    
+}
+
+h5 {
+    font-size: 30px;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: rgb(235, 194, 15);
+    transition: .3s;
+}

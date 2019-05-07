@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "fish1",
+        "image": "https://www.liveaquaria.com/images/categories/thumbs/th_102720_Longfin_Dragon_Scale_Betta.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "fish2",
+        "image": "https://www.liveaquaria.com/images/categories/thumbs/th_102722_Double_Tail_Mixed_Colors_Betta.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "fish3",
+        "image": "https://www.liveaquaria.com/images/categories/thumbs/th_39892_Violet_Crowntail_Betta_Single.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "fish4",
+        "image": "https://www.liveaquaria.com/images/categories/thumbs/th39893ButterflyBettaSuperDeltaTail.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "fish5",
+        "image": "https://www.liveaquaria.com/images/categories/thumbs/th89717PigeonBloodDiscus.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "fish6",
+        "image": "https://www.liveaquaria.com/images/categories/thumbs/th39598CheckerboardDiscus.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "fish7",
+        "image": "https://www.liveaquaria.com/images/categories/thumbs/th_89778_Colombian_Shark.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "fish8",
+        "image": "https://www.liveaquaria.com/images/categories/thumbs/th39941SynodontisZebraHyrbid.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "fish9",
+        "image": "https://www.liveaquaria.com/images/categories/thumbs/th_39958_Painted_Swordtail.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "fish10",
+        "image": "https://www.liveaquaria.com/images/categories/thumbs/th95254DalmationLyretailMolly.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "fish11",
+        "image": "https://www.liveaquaria.com/images/categories/thumbs/th39949GoldDustMolly.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "fish12",
+        "image": "https://www.liveaquaria.com/images/categories/thumbs/th_39491_Red_Platy.jpg",
+        "clicked": false
+    }
+]

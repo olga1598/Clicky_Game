@@ -1,0 +1,51 @@
+.card {
+    background: #fff;
+    border-radius: 2px;
+    height: 140px;
+    margin: 1rem;
+    position: relative;
+    width: 140px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    text-align: left;
+  }
+
+.fish-button {
+  height: 100%;
+  width: 100%;
+  padding: 0px;
+}
+
+  .card:hover,
+  .card:focus {
+    box-shadow: 0 10px 30px rgb(28, 14, 226), 0 5px 10px rgb(235, 194, 15);
+    transition: .2s;
+  }
+  
+  .img-container {
+    height: 100%;
+    overflow: hidden;
+    text-align: center;
+    background: rgb(54, 12, 110);
+  }
+
+  .img-container > img {
+    width: 100%
+  }
+
+  .card > .img-container {
+    height: 60%;
+    overflow: hidden;
+    text-align: center;
+    background:#6CADDC;
+  }
+  .card > .img-container > img {
+    width: 60%
+  }
+  
+  
+  .card > .content {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 15px;
+  }
+  
